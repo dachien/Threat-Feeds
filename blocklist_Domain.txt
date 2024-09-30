@@ -7,6 +7,8 @@
 223.sfb81g.dnslog.cn
 2knjjb547qdx1y2qz0z7xrlohfn5bu.burpcollaborator.net
 35un.l.time4vps.cloud
+36.230.111.78
+360photo.oss-cn-hongkong.aliyuncs.com
 365filtering.com
 365office-microsoft.ml
 4iiiessb.wikimedia.vip
@@ -38,6 +40,7 @@ ap35.taiwaneyny.com
 ap97.cksogo.com
 api.aws3.workers.dev
 api.f2032.com
+api.garageserviceoperation.com
 api.googletagmanage.xyz
 api.gov-tw.workers.dev
 api--telegram.ru
@@ -84,6 +87,7 @@ centos.onthewifi.com
 chart.expocasheuro.com
 check.96html.com
 checkfreeafraid.ignorelist.com
+checkpassword.net
 chinnyann.ddns.net
 chinnyann.duckdns.org
 chr0mail.com
@@ -122,6 +126,7 @@ cxman.wicp.net
 cymkpuadkduz.xyz
 d2xtzlg7fn463j.cloudfront.net
 damrit.newerbrowsers.xyz
+dangcongsan.linkpc.net
 darksidfqzcuhtk2.onion
 data01.ns02.biz
 databasegalore.com
@@ -138,7 +143,6 @@ dingzan.net
 direct-yahoo.us
 dlink.sexytube0.com
 dns.1433.eu.org
-dns.bypass.eu.org
 dns.googledriver.group
 dns.securewindows.xyz
 dns.teamviews.top
@@ -237,6 +241,7 @@ hostingupdate.club
 HpNcuSvy.loserun.com
 htwg.builder.hemsida24.se
 huaibangchina.com
+human-check3.b-cdn.net
 hygscpro.com
 ibmlotus.net
 icst.ygto.com
@@ -317,6 +322,7 @@ mail.gsnftp.com
 mail.kumb.cf
 mail.marocfamily.com
 mail.spiritismireland.com
+mail.tcti.tw
 mail2000.pw
 mail2000tw.com
 mail-csits.org
@@ -343,7 +349,6 @@ microsoft_update.pop-corps.com
 microsoftapply.com
 microsoft-kz.com
 microsofts.top
-microsoftskype.ml
 micsoftin.us
 mine.moneropool.com
 miner.fee.xmrig.com
@@ -355,6 +360,7 @@ monerooceans.stream
 montsafe.rosetoo.com
 moraffdd06.top
 moresils.deaftone.com
+msa.hinet.ink
 msdnsvc.com
 msdnupdate.com
 msdrv.com
@@ -377,7 +383,6 @@ ns.cloud01.tk
 ns.cloud20.tk
 ns1.limyonly.me
 ns1.microsoftonetravel.com
-ns1.microsoftskype.ml
 ns1.softupdate-online.top
 ns1.windowsdefende.com
 ns2.limyonly.me
@@ -421,11 +426,13 @@ pyexpat.aundes.com
 pyexpat21.aundes.com
 QtCore25.hygscpro.com
 Radeon.sonsdtw.com
+railwaysy.online
 randaln.com
 readme.myddns.com
 remote.utoggsv.com
 reports-ntuh.govtw-ssl.ntuh-hospital.com
 rexagi.com
+rocean.oca.pics
 rosetoo.com
 rpc.1qw.us
 RTMPService.damienjohn.com
@@ -458,8 +465,11 @@ solevisible.com
 sonsdtw.com
 sport.wikaba.com
 sqldb.cksogo.com
+static.krislab.site
 static.mhysl.org
 static.phongay.com
+static.trendmicrotech.com
+status.s3cloud-azure.com
 SubWCRev.lsoeman.com
 superbetprediction.com
 support.helpkaspersky.top
@@ -533,6 +543,7 @@ windows.ssl443.org
 wizcosear.bakhell.com
 wmgnews.daji8.me
 wmi.0810bye.ru
+wordpresss-data.s3.me-south-1.amazonaws.com
 work.cloud01.tk
 work.cloud20.tk
 wppdo5ayckir6s7k4u412lqim9s0gp.burpcollaborator.net
@@ -555,15 +566,19 @@ www.gov-tw.workers.dev
 www.inonix.co.kr
 www.iot809952618.softether.net
 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+www.krtcc.com.tw
+www.mail20000.com
 www.michiganlocking.com
 www.microsoftagency.com
 www.minpop.com
 www.ntuh-hospital.com
 www.officescan_update.mypop3.org
 www.purple76.com
+www.railwaysy.online
 www.rutentw.com
 www.sexytube0.com
 www.teledhlcn.com
+www.thsrcc.com.tw
 www.twmobile.tk
 www.usooutlook.net
 www.xxdaytoy.top
@@ -590,6 +605,9 @@ zagyhotel.ae
 zephyr.miningocean.org
 zgajf.sbs
 zupertech.com
+dns.bypass.eu.org
+microsoftskype.ml
+ns1.microsoftskype.ml
 cab.7updata.com
 cachefront.online
 cybertw.com
