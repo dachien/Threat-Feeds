@@ -1308,7 +1308,7 @@ LRCliSMT.bakhell.com
 mm.bbmouseme.com
 googledns.newerbrowsers.com
 damrit.newerbrowsers.xyz
-.365filtering.com
+365filtering.com
 csgo.newerbrowsers.com
 static.mhysl.org
 www.usooutlook.net
