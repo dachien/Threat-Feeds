@@ -1815,7 +1815,7 @@ luci.rebs.ga
 bob.rebs.ga
 app.chromenu.com
 www.monksec.tk
-www.szydh.com/
+www.szydh.com
 fubon.netlify.app
 apkfab.com
 napkforpc.com
@@ -1868,13 +1868,13 @@ esunbank.win-john.com
 ninewill.github.io
 qi-jiao-suo-xu-ni-jiao-yi-suo.en.softonic.com 
 li-cai-eguan-jia.fr.softonic.com
-www.twse66.com/index
+www.twse66.com
 www.androidblip.com-apps
 appadvice.com
 vsiyu.buzz
 missupermarket.com
 superset.ffbl.edu.rs
-apkgk.com/com.tbb
+apkgk.com
 tai-wan-qi-yin-zheng-quan.softonic-id.com
 tai-wan-qi-yin-zheng-quan.softonic.com
 tai-wan-qi-yin-zheng-quan.softonic-ar.com
@@ -1941,7 +1941,7 @@ fu-bang-e.softonic.cn
 fu-bang-zheng-quan-ekai-hu.softonic.cn
 fu-bang-zheng-quan-edian-tong.softonic.cn
 apk.plus
-fubon.goclass.tw/
+fubon.goclass.tw
 www.yuanda12957.com
 www.yuanda15217.com
 www.yuanda35501.com
@@ -1957,7 +1957,7 @@ yuanda12.com
 yuanda123.com
 yuanda234.com
 yuanda3.com
-app.kdfute.com/web.html
+app.kdfute.com
 www.yuanda12698.com
 www.yuanda12797.com
 www.yuanda12801.com
@@ -1973,7 +1973,7 @@ www.yuanda72188.com
 www.yuanda21635.com
 www.gqaio.com
 td1112.cn
-apkgk.com/com.fsit.android.app
+apkgk.com
 yd1113.cn
 www.yuanda12511.com
 www.yuanda13260.com
@@ -2002,7 +2002,7 @@ hz1126.cn
 hz1120.cn
 tx1129.cn
 tw.qh5892.bondindex
-androidappsapk.co/search/?q=com.fsit.android.app
+androidappsapk.co
 yd1202.cn
 apksos.com/com.fubon.aibank
 www.yuanda17815.com
@@ -2022,8 +2022,8 @@ www.fnmdkd.com
 tx1206.cn
 8.210.35.193
 tx1309.cn
-apkgk.com/com.fuhhwa.app
-fbzqbon.com/index
+apkgk.com
+fbzqbon.com
 yuandasecuritees.com
 yda1209.cn
 www.tx1209.cn
@@ -2038,7 +2038,7 @@ dy1311.cn
 m.onefhcs.com
 103.149.182.161
 td1210.cn
-a.qh2869.shopindex/pass?pass=1689
+a.qh2869.shopindex
 yd1312.cn
 hz1216.cn
 www.yuanda11751.com
@@ -2051,7 +2051,7 @@ www.yuanda52731.com
 www.yuanda56398.com
 www.yuanda61113.com
 www.yuanda67195.com
-a.qh2869.shopindex/pass
+a.qh2869.shopindex
 54.151.250.141
 yuantasecurities-vn.com
 raanyaseecuritees.com
@@ -2066,7 +2066,7 @@ www.vn-yuanta11.top
 taannyaaseecurites.com
 appshunter.io
 td1217.cn
-a.qh8291.cyou/index
+a.qh8291.cyou
 www.yuanda13657.com
 www.yuanda16081.com
 www.yuanda26959.com
@@ -2247,7 +2247,7 @@ yuanda1628.com
 yuanda1624.com
 yuanda1626.com
 yd0307.cn
-daikuanservlce.cn/
+daikuanservlce.cn
 www.yuanda12961.com
 www.yuanda19021.com
 www.yuanda60255.com
