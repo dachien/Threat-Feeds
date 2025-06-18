@@ -2954,3 +2954,4 @@ req1specifidocu.firnashuman.com
 ccgst.cam
 x70511.cn
 api.telegram.org
+www.deepseek.com
